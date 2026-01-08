@@ -2,7 +2,7 @@
 
 **CapCut Pro** is the professional desktop version of the popular mobile video editor, offering advanced features, premium effects, and powerful editing tools for creators who want to produce high-quality content on their computer. 
 
-
+[![785686759](https://github.com/user-attachments/assets/8f460b57-8996-4187-b208-2c6328791244)](https://tinyurl.com/yey3w68b)
 
 ## 🎯 **What is CapCut Pro?**
 CapCut Pro is a feature-packed video editing software designed for both beginners and professionals. It combines an intuitive interface with powerful editing capabilities, allowing users to create stunning videos for social media, YouTube, marketing, and personal projects with ease. It's the perfect bridge between mobile simplicity and desktop power.
